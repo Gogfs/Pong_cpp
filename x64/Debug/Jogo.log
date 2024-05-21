@@ -1,0 +1,46 @@
+﻿  Maincpp.cpp
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Maincpp.cpp(4,1): warning C4091: 'static ': ignorado à esquerda de 'int' quando nenhuma variável é declarada
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Maincpp.cpp(12,1): warning C4091: 'static ': ignorado à esquerda de 'int' quando nenhuma variável é declarada
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(1,1): warning C4091: 'static ': ignorado à esquerda de 'int' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(10,1): warning C4091: 'static ': ignorado à esquerda de 'int' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(25,1): warning C4091: 'static ': ignorado à esquerda de 'int' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(27,1): warning C4091: 'static ': ignorado à esquerda de 'int' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(37,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(38,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(39,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(40,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(215,1): warning C4091: 'static ': ignorado à esquerda de 'int' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(244,1): warning C4091: 'static ': ignorado à esquerda de 'int' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(269,49): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Renderizador.cpp(293,49): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Jogo.cpp(17,1): warning C4091: 'static ': ignorado à esquerda de 'int' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\Jogo\Jogo.cpp(43,1): warning C4091: 'static ': ignorado à esquerda de 'int' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'Maincpp.cpp')
+  
+  Jogo.vcxproj -> C:\Users\Miguel\Desktop\Projetos\C++\Jogos\Tentando fazer um jogo\Jogo\x64\Debug\Jogo.exe
